@@ -2780,9 +2780,3 @@ class LineItem(Entity):
     self.description = descption
 ```
 
-
-
-
-
-
-
